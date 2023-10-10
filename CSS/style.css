@@ -31,3 +31,24 @@ body {
     background-size: cover;
     padding: 152px 0;
 }
+
+.feature {
+    background-color: #a9a8a833;
+}
+
+.s40 li {
+    list-style: none;
+}
+
+.s40 li a {
+    text-decoration: none;
+    color: #ffffff7a;
+}
+
+.btn:hover {
+    background-color: #3f454d;
+}
+
+.s41 {
+    border-radius: var(--bs-border-radius-pill) !important;
+}
